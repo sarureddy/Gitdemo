@@ -1,5 +1,5 @@
 Hi this is git demo
-<<<<<<< HEAD
+ HEAD
 changes in remote txt file
 
 changes in remote txt files 
@@ -8,8 +8,11 @@ changes in local file and pushing to remote
 =======
 changes in remote txt file 
 changes in remote txt file
->>>>>>> 55402b5411e4c43fb3cf5c55cf9bb8cdf9a8b005
+ 55402b5411e4c43fb3cf5c55cf9bb8cdf9a8b005
 This is first commit in server
 
 
 edting file in local repo in test file
+
+
+edting file in local repo in test file2
